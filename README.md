@@ -7,7 +7,6 @@
 
 ##
 
-[![jovitif's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=jovitif&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/jovitif/github-readme-stats#gh-dark-mode-only)
 
 
 
