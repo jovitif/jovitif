@@ -6,6 +6,7 @@
 - 🤓 I’m currently learning Spring
 - 📫 How to reach me: joaosales911@gmail.com
 - ⚡ Fun fact: I like listening to rock music and sometimes I practice meditation
+- 🧑‍💻 Portfolio: https://jovitportfolio.netlify.app/
 
 
 ## 🌐 Socials:
