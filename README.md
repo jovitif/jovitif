@@ -2,11 +2,11 @@
 
 ##
 
-- 💻 I’m Computer Science Student (UFERSA)
 - 🤓 Full-Stack Developer
+- 🧑‍💻 Portfolio: https://jovitportfolio.netlify.app/
+- 💻 I’m Computer Science Student (UFERSA)
 - 📫 How to reach me: joaosales911@gmail.com
 - ⚡ Fun fact: I like listening to rock music and sometimes I practice meditation
-- 🧑‍💻 Portfolio: https://jovitportfolio.netlify.app/
 
 
 ## 🌐 Socials:
