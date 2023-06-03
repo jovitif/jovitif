@@ -3,7 +3,7 @@
 ##
 
 - 💻 I’m Computer Science Student (UFERSA)
-- 🤓 I’m currently learning Spring
+- 🤓 Full-Stack Developer
 - 📫 How to reach me: joaosales911@gmail.com
 - ⚡ Fun fact: I like listening to rock music and sometimes I practice meditation
 - 🧑‍💻 Portfolio: https://jovitportfolio.netlify.app/
