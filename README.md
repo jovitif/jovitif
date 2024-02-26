@@ -2,7 +2,7 @@
 
 ##
 
-- 🤓 Learning Machine Learning with AWS
+- 🤓 Learning ML with AWS
 - 🧑‍💻 Portfolio: https://jovitportfolio.netlify.app/
 - 💻 I’m Computer Science Student (UFERSA)
 - 📫 How to reach me: joaosales911@gmail.com
