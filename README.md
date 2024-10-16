@@ -2,7 +2,7 @@
 
 ##
 
-- 🤓 Machine Learning with AWS
+- 🤓 DevOps - AWS | Node.js | Vue.js | Flutter
 - 🧑‍💻 Portfolio: https://jovitportfolio.netlify.app/
 - 💻 I’m Computer Science Student (UFERSA)
 - 📫 How to reach me: joaosales911@gmail.com
