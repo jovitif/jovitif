@@ -2,7 +2,7 @@
 
 ##
 
-- 🤓 Software Engineer - Python | Rails | Node.js | React.js | Flutter | AWS | PostgreSQL
+- 🤓 Software Engineer - Python | Rails | Node.js | React.js | React Native | 1x AWS | PostgreSQL
 - 🧑‍💻 Portfolio: https://jovitportfolio.netlify.app/
 - 💻 I’m Computer Science Student (UFERSA)
 - 📫 How to reach me: joaosales911@gmail.com
