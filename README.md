@@ -1,4 +1,4 @@
-### Hi there 👋, I'm João Vitor
+### Hi there 👋, I'm João Sales
 
 ---
 
