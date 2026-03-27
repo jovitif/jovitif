@@ -14,16 +14,7 @@
 ### 🧑‍💻 About Me
 
 I'm a Software Engineer with experience in real-world projects across public, academic, and financial sectors.  
-I enjoy building scalable web applications, integrating AI into products, and solving practical problems through technology.
-
----
-
-### 📂 Featured Project
-
-**🏥 Hospital Management System (WIP)**  
-- Full-stack application using Node.js, TypeScript, React, and PostgreSQL  
-- Features: patient management, doctors, and appointment scheduling  
-- Focused on clean architecture and real-world use cases  
+I enjoy building scalable web applications, integrating AI into products, and solving practical problems through technology. 
 
 ---
 
