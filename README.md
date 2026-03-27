@@ -1,21 +1,50 @@
-### Hi there 👋, I am João Vitor
+### Hi there 👋, I'm João Vitor
 
-##
+---
 
-- 🤓 Software Engineer | Full-Stack (Node.js, React, TypeScript) | AI & Data Integrations
-- 🧑‍💻 Portfolio: https://jovitportfolio.netlify.app/
-- 💻 I’m Computer Science Student (UFERSA)
-- 📫 How to reach me: joaosales911@gmail.com
+🚀 Software Engineer focused on building full-stack web applications and AI-driven integrations.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/j2aov/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jo%C3%A3o-sales-058747211/) 
+- 💻 Full-Stack: Node.js, TypeScript, React  
+- 🤖 AI & Automation: Chatbots, APIs, n8n, ETL  
+- 🗄️ Database: PostgreSQL, SQL Server  
+- ☁️ Cloud: AWS (Cloud Practitioner)
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+---
+
+### 🧑‍💻 About Me
+
+I'm a Software Engineer with experience in real-world projects across public, academic, and financial sectors.  
+I enjoy building scalable web applications, integrating AI into products, and solving practical problems through technology.
+
+---
+
+### 📂 Featured Project
+
+**🏥 Hospital Management System (WIP)**  
+- Full-stack application using Node.js, TypeScript, React, and PostgreSQL  
+- Features: patient management, doctors, and appointment scheduling  
+- Focused on clean architecture and real-world use cases  
+
+---
+
+### 🌐 Connect with me
+
+- 💼 LinkedIn: https://linkedin.com/in/joaofdsales  
+- 💻 GitHub: https://github.com/jovitif  
+- 🌎 Portfolio: https://jovitportfolio.netlify.app  
+- 📫 Email: joaosales911@gmail.com  
+
+---
+
+### 💻 Tech Stack
+
+#### Core
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind.css](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Flutter](https://img.shields.io/badge/React_Native-02569B?style=for-the-badge&logo=react-native&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+#### Additional
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-FF6A00?style=for-the-badge&logo=n8n&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
